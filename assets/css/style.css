@@ -1,8 +1,39 @@
 *
 {
     box-sizing: border-box;
+    padding: 2px;
 }
 body
 {
     margin:0;
+    background-color: #575757;
 }
+.main-section
+{
+    background-color: lavender;
+    height: 100%;
+    width: 50vw;
+    position: absolute;
+    top:0px;
+    left:25%;
+    border-radius: 20px ;
+}
+
+.primary_tag
+{
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#tags{
+    margin-top: 0px;
+    font-size: 20px;
+}
+header{
+    text-align:center;
+}
+
